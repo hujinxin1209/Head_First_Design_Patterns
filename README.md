@@ -13,3 +13,7 @@
 
 * **Decorator 装饰者模式**: 动态的将责任附加到对象（咖啡的调料）上，想要拓展功能，装饰者提供有别于继承的另一种选择
 ![Image text](https://github.com/hujinxin1209/Head_First_Design_Patterns/blob/master/img/Decorator.png)
+
+* **Factory 工厂模式**：通过让子类决定该创建对象是什么，来达到将对象创建过程封装的目的。工厂方法让类把实例化推迟到子类。
+![Image text](https://github.com/hujinxin1209/Head_First_Design_Patterns/blob/master/img/simpleFactory.png)
+![Image text](https://github.com/hujinxin1209/Head_First_Design_Patterns/blob/master/img/factoryfm.png)
