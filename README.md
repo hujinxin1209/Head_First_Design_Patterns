@@ -17,3 +17,5 @@
 * **Factory 工厂模式**：通过让子类决定该创建对象是什么，来达到将对象创建过程封装的目的。工厂方法让类把实例化推迟到子类。
 ![Image text](https://github.com/hujinxin1209/Head_First_Design_Patterns/blob/master/img/simpleFactory.png)
 ![Image text](https://github.com/hujinxin1209/Head_First_Design_Patterns/blob/master/img/factoryfm.png)
+
+* **Singleton 单例模式**: 确保y一个类只有一个实例，并提供全局访问点。
