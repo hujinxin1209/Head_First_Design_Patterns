@@ -22,3 +22,6 @@
 
 * **Command 命令模式**: 将“请求”封装成对象，以便使用不同的请求，队列或者日志来参数化其他对象。命令模式也支持可撤销操作。（调用者、接收者）
 ![Image text](https://github.com/hujinxin1209/Head_First_Design_Patterns/blob/master/img/simpleCommand.png)
+
+* **Adapter 适配器模式**: 将一个类的接口，转换成客户希望的另一个接口。适配器让原来接口不兼容的类可以合作无间。
+![Image text](https://github.com/hujinxin1209/Head_First_Design_Patterns/blob/master/img/adapter.png)
